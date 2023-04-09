@@ -1,0 +1,11 @@
+.teams{
+    background-color: rgb(181, 222, 222);
+    text-align: center;
+}
+.teamCard{
+background-color: rgb(105, 55, 224);
+padding: 10px;
+border-radius: 8px;
+margin: 8px;
+
+}

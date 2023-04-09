@@ -1,0 +1,18 @@
+  select {
+      padding: 10px 8px;
+      width: 100%;
+  }
+
+  .addTaskForm {
+      background-color: rgb(179, 217, 217);
+      width: 100%;
+
+  }
+
+  .addTaskForm h3 {
+      text-align: center;
+      padding: 10px;
+  }
+  .addTaskForm form{
+    padding: 10px;
+  }

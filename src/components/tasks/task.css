@@ -1,0 +1,15 @@
+.taskContainar{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-gap: 8px;
+}
+ 
+ 
+ .taskcard{
+    background-color: rgb(127, 174, 255);
+    padding: 10px;
+    border-radius: 5px;
+ }
+ .taskboxes h3{
+   padding: 10px;
+ }

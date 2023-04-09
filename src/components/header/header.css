@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+.header{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 15px;
+}
